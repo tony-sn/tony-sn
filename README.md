@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tony-sn
-- 👀 I’m interested in coding, programming, web developing, software, technology
-- 🌱 I’m currently learning JS, Ruby, Ruby On Rails
+- 👀 I’m interested in coding, programming, web developing, software, technology: mobile, photography
+- 🌱 I’m currently learning JS, Python, React, Django
 - 💞️ I’m looking to collaborate on e-commerce web projects.
 - 📫 How to reach me: tony@outlook.com for work.
 
