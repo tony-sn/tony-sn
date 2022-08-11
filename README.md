@@ -68,11 +68,11 @@ I am a Full Stack Developer based in Melbourne, Australia.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tony-sn&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tony-sn&theme=dracula&background=282a36)](https://git.io/streak-stats)
 
 ![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tony-sn&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-sn&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tony-sn&layout=compact&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
