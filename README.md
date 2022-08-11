@@ -78,7 +78,7 @@ I am a Full Stack Developer based in Melbourne, Australia.
 
 ### :pushpin:  My other Repos:
 
-[![Storybook Card](https://github-readme-stats.vercel.app/api/pin/?username=tony-sn&repo=storybook)](https://github.com/tony-sn/storybook)
+[![Storybook Card](https://github-readme-stats.vercel.app/api/pin/?username=tony-sn&repo=storybook&theme=dracula)](https://github.com/tony-sn/storybook)
 
 <!---
 tony-sn/tony-sn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
