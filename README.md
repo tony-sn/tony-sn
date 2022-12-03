@@ -26,9 +26,11 @@
 <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="auto" height="300"/>
 </div>
+
 </div>
 
 </div>
+<!-- END HEADER -->
 
 ---
 
@@ -80,6 +82,11 @@ I am a Full Stack Developer based in Melbourne, Australia.
 
 ### :fire: My Stats :
 
+&nbsp;
+<div align="center">
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tony-sn&theme=dracula" alt="tony-sn" /></a></p>
+<div>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tony-sn&theme=dracula&background=000000)](https://git.io/streak-stats)
 
 ![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tony-sn&show_icons=true&theme=dracula&count_private=true&bg_color=000000)
@@ -97,4 +104,3 @@ I am a Full Stack Developer based in Melbourne, Australia.
 tony-sn/tony-sn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
