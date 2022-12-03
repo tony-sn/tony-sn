@@ -44,7 +44,7 @@ I am a Full Stack Developer based in Melbourne, Australia.
   ![Prisma Badge](https://img.shields.io/badge/Prisma-darkblue?style=flat&logo=prisma&logoColor=white)
 - 💞️ I’m looking to collaborate on e-commerce web applications, landing pages.
 - 📫 My work email: [![Outlook Badge](https://img.shields.io/badge/-tony.sn@outlook.com-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:tony.sn@outlook.com)
-- 🚀 My latest project: [DNAccountant™](https://dnaccountant.vercel.app/)
+- 🚀 My latest project: [DNAccountant™](https://accountantsdn.com.au/)
 
 ---
 
