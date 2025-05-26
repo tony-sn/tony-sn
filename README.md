@@ -39,14 +39,18 @@
 I am a Full Stack Developer based in Melbourne, Australia.
 
 - 👀 I’m interested in programming, web developing, software, technology devices: :iphone:, :camera:
-- 🌱 I’m currently mastering **TypeScript** full-stack skills:
+- 💪 I have experience with **TypeScript** full-stack skills:
   ![React Badge](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white) +
   ![Django Badge](https://img.shields.io/badge/Django-green?style=flat&logo=django&logoColor=white),
   ![NextJS Badge](https://img.shields.io/badge/Next.JS-black?style=flat&logo=nextdotjs&logoColor=white) +
   ![Prisma Badge](https://img.shields.io/badge/Prisma-darkblue?style=flat&logo=prisma&logoColor=white)
+- 🌱 I'm currently mastering **C#** skills:
+![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white) +
+![.NET Badge](https://img.shields.io/badge/-.NET%208.0-blueviolet?logo=dotnet)
 - 💞️ I’m looking to collaborate on e-commerce web applications, landing pages.
 - 📫 My work email: [![Outlook Badge](https://img.shields.io/badge/-tony.sn@outlook.com-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:tony.sn@outlook.com)
-- 🚀 My latest project: [DNAccountant™](https://accountantsdn.com.au/)
+- 🚀 My latest projects: [DNAccountant™](https://accountantsdn.com.au/), [The Holistic](https://the-holistic.vercel.app/)
+
 
 ---
 
