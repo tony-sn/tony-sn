@@ -18,8 +18,10 @@
 <a href="https://github.com/ossu/computer-science">
   <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
 </a>
-<a href="https://www.rmit.edu.au">
-  <img alt="RMIT Logo" src="https://avatars.githubusercontent.com/u/82038963?s=18&v=1"><span style="text-decoration:none;color:black">RMIT</span>
+  
+   
+<a href="https://www.rmit.edu.au" style="display:flex;flex-direction:column;align-items:center">
+  <img alt="RMIT Logo" src="https://avatars.githubusercontent.com/u/82038963?s=18&v=1"><span style="text-decoration:none!important;color:black!important">RMIT</span>
 </a>
 
 <div align="center">
