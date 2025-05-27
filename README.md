@@ -15,8 +15,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=tony-sn&style=flat-square&color=green" alt="profile views"/>
 <a href="https://wakatime.com/@d4570e79-8041-4a52-94cb-3bb85e09ed1f"><img src="https://wakatime.com/badge/user/d4570e79-8041-4a52-94cb-3bb85e09ed1f.svg" alt="Total time coded since Jan 26 2021" /></a>
-<a href="https//www.rmit.edu.au">
-  <img alt="RMIT Logo" src="https://avatars.githubusercontent.com/u/82038963?s=48&v=4">
+<a href="https://www.rmit.edu.au">
+  <img alt="RMIT Logo" src="https://avatars.githubusercontent.com/u/82038963?s=28&v=2">
 </a>
 <a href="https://github.com/ossu/computer-science">
   <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
