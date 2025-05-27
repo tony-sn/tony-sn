@@ -19,8 +19,8 @@
   <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
 </a>
 <a href="https://www.rmit.edu.au">
-  <img alt="RMIT Logo" src="https://avatars.githubusercontent.com/u/82038963?s=18&v=1">
-</a>RMIT
+  <img alt="RMIT Logo" src="https://avatars.githubusercontent.com/u/82038963?s=18&v=1"><span style="text-decoration:none;color:black">RMIT</span>
+</a>
 
 <div align="center">
   <strong>HELLO THERE!</strong>
