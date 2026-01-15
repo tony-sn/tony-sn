@@ -54,7 +54,7 @@ I am a Full Stack Developer based in Melbourne, Australia.
 ![.NET Badge](https://img.shields.io/badge/-.NET%208.0-blueviolet?logo=dotnet)
 - 💞️ I’m looking to collaborate on e-commerce web applications, landing pages.
 - 📫 My work email: [![Outlook Badge](https://img.shields.io/badge/-tony.sn@outlook.com-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:tony.sn@outlook.com)
-- 🚀 My latest projects: [DNAccountant™](https://accountantsdn.com.au/), [The Holistic](https://the-holistic.vercel.app/)
+- 🚀 My latest projects: [Jade Fingertips](https://jadefingertips.au), [DNAccountant™](https://accountantsdn.com.au/), [The Holistic](https://the-holistic.vercel.app/)
 
 
 ---
